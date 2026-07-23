@@ -29,21 +29,12 @@ site:
         - 🌸 花有重開日，人無再少年！
         - 🌿 記錄生活的點滴，分享美好的瞬間！
         - 📚 紙上得來終覺淺，絕知此事要躬行！
-    friend:
-      title: 友人帳
-      subtitle: 記錄那些珍貴的友誼，分享彼此的故事
     about:
       title: About Me
       subtitle: 一個熱愛生活與技術的普通人！
-    navigation:
-      title: 網站導航
-      subtitle: 收藏的常用網站和工具連結
     anime:
       title: 追番
       subtitle: 記錄和分享我喜歡的動漫作品
-    project:
-      title: Projects
-      subtitle: 展示一些個人搭建的項目，搬運工！
     music:
       title: Cloud Music
       subtitle: 沉浸式享受音樂時光
@@ -57,11 +48,6 @@ site:
       text: 寫作
       href: /write
       svg: material-symbols:edit-square-outline-rounded
-      target: _self
-    - id: navigation
-      text: 導航
-      href: /navigation
-      svg: material-symbols:explore-outline
       target: _self
     - id: entertainment
       text: 娛樂
@@ -79,16 +65,6 @@ site:
           href: /music
           svg: material-symbols:music-note-rounded
           target: _self
-    - id: project
-      text: 項目
-      href: /project
-      svg: material-symbols:code-blocks-outline
-      target: _self
-    - id: friend
-      text: 友人帳
-      href: /friend
-      svg: material-symbols:supervisor-account-outline-rounded
-      target: _self
     - id: about
       text: 關於
       href: /about
