@@ -1,9 +1,9 @@
-site: 
-  tab: KangBlog
-  title: YiBlog
-  description: 🌸 輕盈、優雅、純淨 —— 用文字與圖片記錄生活與創意
+site:
+  tab: 墨染
+  title: 墨染
+  description: 用文字與圖片記錄生活與創意
   language: zh-TW
-  favicon: /images/uploads/1768829953621-6jgasw.jpg
+  favicon: /images/uploads/1784779588661-fyzrft.jpg
   theme:
     light: garden
     dark: dracula
@@ -18,8 +18,8 @@ site:
     height: 60vh
     images:
       - https://tc.alcy.cc/q/20250908/b2d656670551cb9ea6eda7b46b6c8ec0.webp
-  icp: 萌ICP備20040920號
-  icp_link: https://icp.gov.moe/?keyword=20040920
+  icp: ''
+  icp_link: ''
   pages:
     home:
       title: Spencer's Blog
@@ -70,43 +70,39 @@ site:
       href: /about
       svg: material-symbols:info-outline-rounded
       target: _self
-
 anime:
   bilibili:
     uid: '361813534'
   tmdb:
     apiKey: c06994e9e33158fdac8dfda5befad851
     listId: '8556173'
-
 github:
   owner: kobaridev
   repo: RyuChan
   branch: main
   appId: 在部署端配置環境變數
   encryptKey: wudishiduomejimo
-
 umami:
   enable: true
-  baseUrl: https://umami.131714.xyz
-  shareId: jToXL5Z3hnA1gKUw
-  websiteId: 3f9afc6c-f0bd-4734-be15-6d053960d34d
+  baseUrl: ''
+  shareId: ''
+  websiteId: ''
   timezone: Asia/Shanghai
-
 user:
-  name: Kang
-  description: Ciallo～(∠・ω<)⌒★
+  name: 墨染
+  description: 一如果聰明是這樣的話，那我寧可當一生的笨蛋。
   site: https://kangblog.vercel.app/
-  avatar: /images/uploads/1768743022858-lxc4pg.jpg
+  avatar: /images/uploads/1784779589676-idvynp.jpg
   sidebar:
     social:
-      - href: https://github.com/SpencerKK920
+      - href: ''
         ariaLabel: Github
         title: Github
         svg: ri:github-line
-      - href: https://space.bilibili.com/361813534
-        ariaLabel: BiliBili
-        title: BiliBili
-        svg: ri:bilibili-line
+      - href: ''
+        ariaLabel: Email
+        title: Email
+        svg: ri:mail-line
   footer:
     social:
       - href: https://github.com/kobaridev
@@ -125,7 +121,6 @@ user:
         ariaLabel: Telegram
         title: Telegram
         svg: ri:telegram-line
-
 comments:
   enable: true
   type: giscus
