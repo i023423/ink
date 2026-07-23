@@ -49,22 +49,16 @@ site:
       href: /write
       svg: material-symbols:edit-square-outline-rounded
       target: _self
-    - id: entertainment
-      text: 娛樂
-      href: “#”
-      svg: material-symbols:play-circle-outline-rounded
+    - id: anime
+      text: 影視
+      href: /anime
+      svg: material-symbols:movie-outline
       target: _self
-      subItems:
-        - id: anime
-          text: 影視
-          href: /anime
-          svg: material-symbols:movie-outline
-          target: _self
-        - id: music
-          text: 音樂
-          href: /music
-          svg: material-symbols:music-note-rounded
-          target: _self
+      - id: music
+      text: 音樂
+      href: /music
+      svg:  material-symbols:music-note-rounded
+      target: _self
     - id: about
       text: 關於
       href: /about
