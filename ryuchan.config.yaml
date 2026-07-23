@@ -3,7 +3,7 @@ site:
   title: 墨染
   description: 用文字與圖片記錄生活與創意
   language: zh-TW
-  favicon: /images/uploads/1784779588661-fyzrft.jpg
+  favicon: /images/uploads/1784780403192-fff0b9.jpg
   theme:
     light: garden
     dark: dracula
@@ -92,7 +92,7 @@ user:
   name: 墨染
   description: 一如果聰明是這樣的話，那我寧可當一生的笨蛋。
   site: https://kangblog.vercel.app/
-  avatar: /images/uploads/1784779589676-idvynp.jpg
+  avatar: /images/uploads/1784780404220-7swwe8.jpg
   sidebar:
     social:
       - href: ''
