@@ -89,7 +89,7 @@ umami:
   websiteId: ''
   timezone: Asia/Shanghai
 user:
-  name: 墨染
+  name: 墨
   description: 一如果聰明是這樣的話，那我寧可當一生的笨蛋。
   site: https://kangblog.vercel.app/
   avatar: /images/uploads/1784780404220-7swwe8.jpg
